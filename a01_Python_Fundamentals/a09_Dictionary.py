@@ -43,6 +43,5 @@ def main():
     print(f"\t{aws_services}")
     print(f"\n\t{aws_services['EC2']}")
 
-
 if __name__ == "__main__":
     main()   
