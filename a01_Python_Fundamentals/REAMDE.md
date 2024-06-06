@@ -76,7 +76,10 @@ shopping_list = [
     'eggs', 'flour', 'spinach', 'onions', 'mushrooms', 'tomatoes'
 ]
 ```
-
+- **Dictionaries**
 ```py
-
-```
+baked_dish_fillings = {
+    "quiche": "eggs, cream, cheese, spinach, onions, and mushrooms"
+    "empanadas": "ground beef, vegetables, and spices"
+    "chicken pot pie": "chicken, vegetables, and"
+}
